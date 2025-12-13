@@ -2,9 +2,6 @@
 
 ## Usage Analysis and Recommendations for Sports Facilities at the University of Macau
 
-
-## Description of Your Project
-
 ### Overview
 This project examines **usage patterns and optimization strategies for sports facilities at the University of Macau**. It focuses on three representative venues—**badminton, tennis, and squash**—and extends to a machine learning module that predicts **booking success rates**. The study covers data from **December 2022 to June 2024**, and it identifies clear temporal rules: **evening peaks**, **higher demand during teaching terms**, and **noticeable drops during exam periods**.
 
