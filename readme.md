@@ -2,6 +2,27 @@
 
 ## Usage Analysis and Recommendations for Sports Facilities at the University of Macau
 
+---
+
+Presentation text:[Usage Analysis and Recommendations for Sports Facilities at the University of Macau](./assets/Usage%20Analysis%20and%20Recommendations%20for%20Sports%20Facilities%20at%20the%20University%20of%20Macau.pdf)
+
+presentation video:[presentation video]()
+
+---
+
+### Team & Credits
+- **He Jingping:** Responsible for data collection, obtaining and processing **sport\_facilities.csv** and **UM academic calendar.csv**, preprocessing data for badminton and squash courts, conducting data analysis and visualization for badminton courts, performing combined analysis and visualization with the academic calendar, organizing the code and uploading it to the Gitea repository, and writing the README file.
+
+- **Yao Jiahao:** 
+
+- **Liang Zhengping:**   
+
+- **Liang Zhongkai:** Responsible for data preprocessing by converting the original JSON files into CSV format, conducting initial data exploration and visualizing the overall dataset, and implementing the machine learning code.
+
+- **Zhang Yi:**
+
+---
+
 ### Overview
 This project examines **usage patterns and optimization strategies for sports facilities at the University of Macau**. It focuses on three representative venues—**badminton, tennis, and squash**—and extends to a machine learning module that predicts **booking success rates**. The study covers data from **December 2022 to June 2024**, and it identifies clear temporal rules: **evening peaks**, **higher demand during teaching terms**, and **noticeable drops during exam periods**.
 
@@ -59,19 +80,6 @@ This project examines **usage patterns and optimization strategies for sports fa
 - **Management advice:** During peak hours and mid-term, use **time-sliced booking** and **dynamic quotas**. Schedule **maintenance and training** in off seasons or exam periods. For outdoor sports in summer, add **shade and hydration facilities** and promote **staggered events**.
 
 ---
-
-### Team & Credits
-- **He Jingping:** Responsible for data collection, obtaining and processing **sport\_facilities.csv** and **UM academic calendar.csv**, preprocessing data for badminton and squash courts, conducting data analysis and visualization for badminton courts, performing combined analysis and visualization with the academic calendar, organizing the code and uploading it to the Gitea repository, and writing the README file.
-
-- **Yao Jiahao:** 
-
-- **Liang Zhengping:**   
-
-- **Liang Zhongkai:** Responsible for data preprocessing by converting the original JSON files into CSV format, conducting initial data exploration and visualizing the overall dataset, and implementing the machine learning code.
-
-
-- **Zhang Yi:**
-
 
 ### Reference
 
