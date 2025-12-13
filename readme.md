@@ -6,7 +6,12 @@
 
 Presentation text:[ Usage Analysis and Recommendations for Sports Facilities at the University of Macau](./assets/Usage%20Analysis%20and%20Recommendations%20for%20Sports%20Facilities%20at%20the%20University%20of%20Macau.pdf)
 
+
 presentation video:[ presentation video](./assets/presentation_video.mp4)
+<video src="./assets/presentation_video.mp4" width="100%" controls>
+  Your browser does not support the video tag.
+</video>
+
 
 ---
 
@@ -15,7 +20,7 @@ presentation video:[ presentation video](./assets/presentation_video.mp4)
 
 - **Yao Jiahao:** In this group project, I was responsible for analyzing the tennis-related data, including visualizations such as heatmaps and box plots. I also designed and organized the presentation slides. In addition, I delivered a 12-minute presentation on behalf of the group. During the presentation, I highlighted the project motivation, dataset, data engineering pipeline, and key findings.
 
-- **Liang Zhengping:**   
+- **Liang Zhengping:** 
 
 - **Liang Zhongkai:** Responsible for data preprocessing by converting the original JSON files into CSV format, conducting initial data exploration and visualizing the overall dataset, and implementing the machine learning code.
 
