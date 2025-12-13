@@ -70,7 +70,8 @@ This project examines **usage patterns and optimization strategies for sports fa
 
 - **Liang Zhengping:**   
 
-- **Liang Zhongkai:** 
+- **Liang Zhongkai:** Responsible for data preprocessing by converting the original JSON files into CSV format, conducting initial data exploration and visualizing the overall dataset, and implementing the machine learning code.
+
 
 - **Zhang Yi:**
 
