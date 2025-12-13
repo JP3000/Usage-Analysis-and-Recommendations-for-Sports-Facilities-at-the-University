@@ -6,10 +6,7 @@
 
 Presentation text:[ Usage Analysis and Recommendations for Sports Facilities at the University of Macau](./assets/Usage%20Analysis%20and%20Recommendations%20for%20Sports%20Facilities%20at%20the%20University%20of%20Macau.pdf)
 
-
 presentation video: [ presentation video](./assets/presentation_video.mp4)
-
-![presentation video](https://git-cds.sicc.um.edu.mo/2025_CISC7201/GRP_Z/src/commit/c011d49aad82ba107ed87a0418442d532419fc74/assets/presentation_video.mp4)
 
 ---
 
