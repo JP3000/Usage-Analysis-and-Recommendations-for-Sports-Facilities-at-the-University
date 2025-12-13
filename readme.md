@@ -64,11 +64,21 @@ This project examines **usage patterns and optimization strategies for sports fa
 ---
 
 ### Team & Credits
-- **He Jingping:** 
+- **He Jingping:** Responsible for data collection, obtaining and processing **sport\_facilities.csv** and **UM academic calendar.csv**, preprocessing data for badminton and squash courts, conducting data analysis and visualization for badminton courts, performing combined analysis and visualization with the academic calendar, organizing the code and uploading it to the Gitea repository, and writing the README file.
+
 - **Yao Jiahao:** 
+
 - **Liang Zhengping:**   
+
 - **Liang Zhongkai:** 
+
 - **Zhang Yi:**
 
 
-### References 
+### Reference
+
+1. Ortigossa, E. S., Dias, F. F., Nascimento, D. C., & Nonato, L. G. “Time Series Information Visualization –A Review of Approaches and Tools,”arXiv (2025). . https://arxiv.org/pdf/2507.14920v1
+2. Endo, R., & Hosobe, H. “Visualization of Time Series Data Using Clustered Heatmaps and Line Graphs,”VINCI 2024, ACM (2024).. https://dl.acm.org/doi/fullHtml/10.1145/3678698.3678705
+3. Luohen de Hanjia, Data Analysis & Visualization Python Map Plotting 3 —GeoPandas Usage Essentials,” CNBlogs (n.d.).. https://www.cnblogs.com/luohenyueji/p/17485432.html
+4. Ali Yiyang. (n.d.). Python: Using Pyecharts to Draw China’s Population Distribution and Migration Maps.. https://download.csdn.net/blog/column/10599192/113864429
+5. Kairan Yang ,Yujun Xie ,Hengtao Guo. Optimization of spatial distribution of sports parks based on accessibility analysis,”PLOS ONE (2023).. https://doi.org/10.1371/journal.pone.0291235
