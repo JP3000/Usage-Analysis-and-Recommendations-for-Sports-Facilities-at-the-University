@@ -1,26 +1,4 @@
-## CISC 7201 FINAL PROJECT
-
-## Usage Analysis and Recommendations for Sports Facilities at the University of Macau
-
----
-
-### Presentation
-Presentation sildes:[ Usage Analysis and Recommendations for Sports Facilities at the University of Macau](./assets/Usage%20Analysis%20and%20Recommendations%20for%20Sports%20Facilities%20at%20the%20University%20of%20Macau.pdf)
-
-presentation video: [ presentation video](./assets/presentation_video.mp4)
-
----
-
-### Team & Credits
-- **He Jingping:** Responsible for data collection, obtaining and processing **sport\_facilities.csv** and **UM academic calendar.csv**, preprocessing data for badminton courts, conducting data analysis and visualization for badminton courts, performing combined analysis and visualization with the academic calendar, organizing the code and uploading it to the Gitea repository, and writing the README file.
-
-- **Yao Jiahao:** In this group project, I was responsible for analyzing the tennis-related data, including visualizations such as heatmaps and box plots. I also designed and organized the presentation slides. In addition, I delivered a 12-minute presentation on behalf of the group. During the presentation, I highlighted the project motivation, dataset, data engineering pipeline, and key findings.
-
-- **Liang Zhengping:** Responsible for the full-process data processing, in-depth analysis and visualization of the squash court module.esigned and generated professional visualizations for squash courts, including violin plots for usage distribution, month-weekday heatmaps, and cross-period comparison charts.And partial PPT production.
-
-- **Liang Zhongkai:** Responsible for data preprocessing by converting the original JSON files into CSV format, conducting initial data exploration and visualizing the overall dataset, and implementing the machine learning code.
-
-- **Zhang Yi:** I was responsible for the development of the group's presentation slides, undertaking the tasks of content collation, layout formatting, and overall style design to ensure visual coherence and logical clarity.
+## Usage Analysis and Recommendations for Sports Facilities at the University 
 
 ---
 
@@ -81,11 +59,8 @@ This project examines **usage patterns and optimization strategies for sports fa
 - **Management advice:** During peak hours and mid-term, use **time-sliced booking** and **dynamic quotas**. Schedule **maintenance and training** in off seasons or exam periods. For outdoor sports in summer, add **shade and hydration facilities** and promote **staggered events**.
 
 ---
+### Comments
 
-### Reference
+This project presents a well-structured and methodologically sound analysis of sports facility usage at the University of Macau. The report clearly outlines the data pipeline—from collection and preprocessing to visualization and machine learning—demonstrating a systematic approach to tackling the real-world problem of booking optimization. The use of official university data and integration with the academic calendar strengthens the validity of the findings. The analytical depth is commendable, particularly the application of Random Forest modeling to predict booking success, which yielded actionable insights such as peak hours and facility-specific recommendations. Overall, the project is strongly grounded in data, logically organized, and offers practical value for both students and facility managers.
 
-1. Ortigossa, E. S., Dias, F. F., Nascimento, D. C., & Nonato, L. G. “Time Series Information Visualization –A Review of Approaches and Tools,”arXiv (2025). . https://arxiv.org/pdf/2507.14920v1
-2. Endo, R., & Hosobe, H. “Visualization of Time Series Data Using Clustered Heatmaps and Line Graphs,”VINCI 2024, ACM (2024).. https://dl.acm.org/doi/fullHtml/10.1145/3678698.3678705
-3. Luohen de Hanjia, Data Analysis & Visualization Python Map Plotting 3 —GeoPandas Usage Essentials,” CNBlogs (n.d.).. https://www.cnblogs.com/luohenyueji/p/17485432.html
-4. Ali Yiyang. (n.d.). Python: Using Pyecharts to Draw China’s Population Distribution and Migration Maps.. https://download.csdn.net/blog/column/10599192/113864429
-5. Kairan Yang ,Yujun Xie ,Hengtao Guo. Optimization of spatial distribution of sports parks based on accessibility analysis,”PLOS ONE (2023).. https://doi.org/10.1371/journal.pone.0291235
+However, the study has notable limitations. The analysis focuses primarily on three types of courts, omitting other facilities like basketball due to data synchronization issues, which restricts the comprehensiveness of the conclusions. The data timeframe—about 18 months—may be insufficient to capture multi-year seasonal patterns or anomalous periods, potentially affecting the robustness of trend analyses and model predictions. Additionally, the report does not sufficiently address data gaps, such as the impact of offline bookings on occupancy records, nor does it propose methods to validate or compensate for these limitations. Expanding the scope and acknowledging these constraints would enhance the reliability and generalizability of the findings.
